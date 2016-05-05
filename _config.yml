@@ -1,0 +1,28 @@
+name: conspiringwithLOVE
+favicon: null
+layout_spectrum: 0.7752881576307118
+typography_spectrum: 0.40654610306955874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.12800279585644603
+  lightness: 0.784579204628244
+  saturation: 0.9479934396222234
+  rhythmicContrast: 0.34551466815173626
+purpose: []
