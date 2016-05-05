@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[conspiringwithLOVE]]></title>
+        <description><![CDATA[conspiringwithLOVE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 05 May 2016 12:09:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Conspiring with LOVE]]></title>
+            <description><![CDATA[<article><h1>Conspiring with LOVE</h1><p></p></article>]]></description>
+            <link>undefinedconspiring-with-love/index.html</link>
+            <guid isPermaLink="false">5ce76481-7a5b-4a58-b94c-6740b48e5a11</guid>
+            <pubDate>Thu, 05 May 2016 12:09:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
