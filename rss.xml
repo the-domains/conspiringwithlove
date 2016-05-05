@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[conspiringwithLOVE]]></title>
-        <description><![CDATA[conspiringwithLOVE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Conspiring with LOVE]]></title>
+        <description><![CDATA[Conspiring with LOVE]]></description>
+        <link>https://thegrid.ai/conspiringwithlove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 12:18:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 12:36:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/conspiringwithlove/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>this is my image of God </p>]]></description>
+            <link>https://thegrid.ai/conspiringwithlove/this-is-my-image-of-god/index.html</link>
+            <guid isPermaLink="false">2e09a053-832d-4652-8e8b-e1910156584d</guid>
+            <pubDate>Thu, 05 May 2016 12:36:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a funeral welcome ]]></title>
             <description><![CDATA[<article><h1>a funeral welcome </h1><p></p></article>]]></description>
-            <link>undefineda-funeral-welcome/index.html</link>
+            <link>https://thegrid.ai/conspiringwithlove/a-funeral-welcome/index.html</link>
             <guid isPermaLink="false">1af424b1-ba2d-4933-a467-bae21563920d</guid>
             <pubDate>Thu, 05 May 2016 12:17:44 GMT</pubDate>
         </item>
